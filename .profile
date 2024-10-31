@@ -24,6 +24,11 @@ alias yulk="yarn unlink"
 # Git workflow streamlining
 
 alias fzb="~/.local/bin/fsb.sh"
+alias fzr "fzb -r"
+alias fzro "fzb -r -o"
+alias fzm "fzb -m"
+alias fzmo "fzb -m -o"
+
 
 # Git shorthand aliases
 
