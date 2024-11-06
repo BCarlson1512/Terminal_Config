@@ -35,3 +35,7 @@ alias gpo="git push origin"
 alias gchb="git checkout -b"
 alias gch="git checkout"
 alias gsu="git branch --set-upstream-to-origin"
+alias gre="git reset"
+alias gres="git reset --soft" #Add head~ at the end of line
+alias greh"git reset --hard" #Add head~ at the end of line
+alias gcp "git cherry-pick" #add commit hash
