@@ -8,6 +8,7 @@ alias y="yarn"
 alias np="npm"
 alias p="pnpm"
 alias nd="node"
+alias e="ember"
 
 # Add the following line (without #) to your git-completion.bash to enable autocompletion with the 'g' alias
 # __git_complete g __git_main
@@ -20,6 +21,16 @@ alias yfi="yarn install --force"
 alias yi="yarn install"
 alias ylk="yarn link"
 alias yulk="yarn unlink"
+
+# Pnpm
+
+alias ps="pnpm run start"
+alias pb="pnpm run build"
+alias pi="pnpm install"
+
+# Ember
+
+alias es="ember serve"
 
 # Git workflow streamlining
 
