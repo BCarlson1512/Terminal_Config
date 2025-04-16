@@ -32,6 +32,11 @@ alias pi="pnpm install"
 
 alias es="ember serve"
 
+# General Workflow streamlining
+
+# Usage hgrep [search term]
+alias hgrep = history | grep
+
 # Git workflow streamlining
 
 alias fzb="~/.local/bin/fsb.sh"
