@@ -24,9 +24,14 @@ alias yulk="yarn unlink"
 
 # Pnpm
 
-alias ps="pnpm run start"
-alias pb="pnpm run build"
+alias pb="pnpm build"
+alias ps="pnpm start"
 alias pi="pnpm install"
+alias pis="pnpm install && pnpm start"
+alias pfi="pnpm install --force"
+alias pfis="pnpm install --force && pnpm start"
+alias plk="pnpm link"
+alias pulk="pnpm unlink"
 
 # Ember
 
